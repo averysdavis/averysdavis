@@ -1,4 +1,4 @@
-#Hi, I'm Avery
+# Hi, I'm Avery
 ## About Me:
 - I'm a student at Khan Lab School
 - I'm interested in Plant Science, Synthetic Biology, Engineering, and Computer Science
